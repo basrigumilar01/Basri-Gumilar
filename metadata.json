@@ -1,0 +1,7 @@
+{
+  "name": "ABSENSI SDN PASARREBO",
+  "description": "A student attendance application for SDN Pasar Rebo, featuring barcode scanning, student data management, and attendance tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
